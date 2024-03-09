@@ -17,7 +17,10 @@ return new class extends Migration
             $table->string('email');
             $table->string('subject');
             $table->string('message');
+<<<<<<< HEAD
             
+=======
+>>>>>>> c9b00d62f5a09dbf6cc1c9fa0758f76911350278
             $table->timestamps();
         });
     }
